@@ -6,7 +6,7 @@ To run the script, simply execute it in a Bash environment:
 
 
 #!/bin/bash
-./system_information.sh
+./system_information_script.sh
 
 Output:
 The script will output the following system information:
